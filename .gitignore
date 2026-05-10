@@ -1,0 +1,9 @@
+# Ambiente
+.env
+
+# PHP
+/back-end/vendor/
+/back-end/.phpunit.result.cache
+
+# Node
+/front-end/node_modules/
